@@ -3,7 +3,7 @@ require 'pry'
 
 def game_hash
   #top level
-  empty_hash = {
+  {
     :home => {
       :team_name => Brooklyn Nets #string of team_name
       :colors => ["Black", "White"#array of strings that are team_colors
