@@ -3,14 +3,14 @@ def game_hash
   #top level
   empty_hash = {
     :home => {
-      :team_name =>
+      :team_name => #string of team_name
       :colors =>
       :players =>
     }
     :away => {
-      :team_name =>
-      :colors =>
-      :players =>
+      :team_name => #string of team_name
+      :colors => [#array of strings that are team_colors]
+      :players 
     }
   }
 end
