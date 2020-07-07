@@ -3,7 +3,9 @@ require 'pry'
 
 def game_hash
   #top level
-  {}
+  {
+    :home
+  }
 end
 
 game_hash
