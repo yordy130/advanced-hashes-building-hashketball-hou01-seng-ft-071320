@@ -2,8 +2,11 @@
 require 'pry'
 
 def game_hash
- hash = {:home
- ]
+ hash = {
+   :home => {
+     
+   }
+ }
 end
 
 game_hash
