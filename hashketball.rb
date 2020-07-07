@@ -2,7 +2,15 @@
 def game_hash
   #top level
   empty_hash = {
-    :home
-    :away
+    :home => {
+      :team_name =>
+      :colors =>
+      :players =>
+    }
+    :away => {
+      :team_name =>
+      :colors =>
+      :players =>
+    }
   }
 end
