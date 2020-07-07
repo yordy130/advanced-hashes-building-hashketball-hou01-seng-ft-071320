@@ -5,3 +5,5 @@ def game_hash
   #top level
   {}
 end
+
+game_hash
