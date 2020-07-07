@@ -9,8 +9,11 @@ def game_hash
     }
     :away => {
       :team_name => #string of team_name
-      :colors => [#array of strings that are team_colors]
-      :players => [{}]
+      :colors => [#array of strings that are team_colors
+      ]
+      :players => [{#AOH
+      
+      }]
     }
   }
 end
