@@ -1,10 +1,12 @@
 # Write your code here!
+require 'pry'
+
 def game_hash
   #top level
   empty_hash = {
     :home => {
-      :team_name => #string of team_name
-      :colors => [#array of strings that are team_colors
+      :team_name => Brooklyn Nets #string of team_name
+      :colors => ["Black", "White"#array of strings that are team_colors
       ]
       :players => [{#AOH of player_stats
       :player_name => #value_input,
